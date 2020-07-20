@@ -1,0 +1,43 @@
+body{
+
+	margin: 0;
+}
+
+
+
+.x3{
+	text-align: center;
+    border-bottom: 1px solid #969ba24f;
+
+}
+
+.x4{
+
+	text-align: center;
+    font-size: 40px;
+}
+
+.x6{
+
+	max-width: 100%;
+	text-align: center;
+}
+
+.x7{
+	margin-left: auto;
+    margin-right: auto;
+    padding: 0px 100px 0px 114px;
+    line-height: 2;
+    text-align: justify;
+}
+
+
+.x8>h1{
+
+	text-align: center;
+    color: white;
+    background-color: #308454;
+    padding: 15px 97px 22px 116px;
+    margin-left: 113px;
+    margin-right: 100px;
+}
